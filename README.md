@@ -1,7 +1,9 @@
 # tennis-stats-api
 Projet de statistique des joueurs de Tennis
+
 API de Statistiques des Joueurs de Tennis
-Cette application Java est une API simple qui fournit des statistiques sur les joueurs de tennis. L'API respecte les principes REST et utilise Spring Boot pour la mise en œuvre.
+Cette application Java est une API simple qui fournit des statistiques sur les joueurs de tennis.
+L'API respecte les principes REST et utilise Spring Boot pour la mise en œuvre.
 
 Prérequis
 Avant de commencer, assure-toi que les éléments suivants sont installés sur ta machine :
