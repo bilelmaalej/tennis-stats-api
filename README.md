@@ -13,23 +13,18 @@ Apache Maven
 Installation
 Clone le dépôt GitHub de l'application :
 
-bash
-Copy code
 git clone https://github.com/ton-utilisateur/tennis-stats-api.git
 Accède au répertoire de l'application :
 
-bash
-Copy code
+
 cd tennis-stats-api
 Compile le projet à l'aide de Maven :
 
-Copy code
 mvn clean install
 Lancement de l'application
 Exécute la commande suivante pour démarrer l'application :
 
-arduino
-Copy code
+
 mvn spring-boot:run
 L'application sera accessible à l'adresse suivante : http://localhost:8080
 
@@ -44,8 +39,6 @@ L'application comprend des tests unitaires pour vérifier le bon fonctionnement 
 
 Pour exécuter les tests, utilise la commande suivante :
 
-bash
-Copy code
 mvn test
 Les résultats des tests seront affichés dans la console.
 
@@ -54,7 +47,4 @@ Si tu souhaites contribuer à ce projet, tu peux ouvrir une pull request avec te
 
 Problèmes et suggestions
 Si tu rencontres des problèmes ou si tu as des suggestions, n'hésite pas à ouvrir une issue sur le dépôt GitHub du projet.
-
-Licence
-Ce projet est sous licence MIT. Tu peux consulter le fichier LICENSE pour plus d'informations.
 
